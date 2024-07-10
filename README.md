@@ -1,4 +1,4 @@
-![logo](https://github.com/coder-aman17/coder-aman17/blob/main/github.png)
+![logo](https://github.com/coder-aman17/coder-aman17/blob/main/linkdinback.png)
 <h1 align="center">Hi 👋, I'm Aman ojha</h1>
 <h3 align="center">Software Development Engineer from india.</h3>
 
