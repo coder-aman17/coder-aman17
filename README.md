@@ -1,6 +1,7 @@
 ![logo](https://github.com/coder-aman17/coder-aman17/blob/main/linkdinback.png)
 <h1 align="center">Hi 👋, I'm Aman ojha</h1>
 <h3 align="center">Software Development Engineer from india.</h3>
+<img align="right" alt="coding" width="400" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-aman17&label=Profile%20views&color=0e75b6&style=flat" alt="coder-aman17" /> </p>
 
