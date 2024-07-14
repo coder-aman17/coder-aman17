@@ -1,4 +1,4 @@
-![logo](https://github.com/coder-aman17/coder-aman17/blob/main/linkdinback.png)
+![logo](https://github.com/coder-aman17/coder-aman17/blob/main/Black%20Blue%20White%20Modern%20Software%20Engineer%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aman ojha</h1>
 <h3 align="center">Software Development Engineer from india.</h3>
 <img align="right" alt="coding" width="400" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif"> 
